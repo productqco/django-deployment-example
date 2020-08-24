@@ -25,7 +25,7 @@ SECRET_KEY = 'h^z#rec#9e6_=rkg-wr3g3e(n4ysjuv52vi^kc+-zr#$gf=wz+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['www.productq.co']
 
 
 # Application definition
